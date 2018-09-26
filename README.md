@@ -20,6 +20,12 @@
 2）未来我会给书目维护小组提供我的购书清单，辛苦书目维护小组，将我的购书清单，整理成Zotero书目。  
 这个事情不急，十一前后陆续启动。  
 
+#### 日常交流
+
+- GitHub 仓库 [AnRenAcademy](https://github.com/zoejane/AnRenAcademy)
+    - 讨论区 [Issues](https://github.com/zoejane/AnRenAcademy/issues)
+    - 知识库 [Wiki](https://github.com/zoejane/AnRenAcademy/wiki)
+
 #### Zotero 群组
 
 - [Zotero | Groups > AnRenAcademy](https://www.zotero.org/groups/2230585/anrenacademy)
